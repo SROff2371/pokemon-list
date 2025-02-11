@@ -1,0 +1,15 @@
+{
+  "name": "pokemon-app",
+  "version": "1.0.0",
+  "description": "Application dynamique avec Node.js et Express",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": "16.x"
+  }
+}
